@@ -11,7 +11,7 @@ The folder contains 3 zip files. Un-zip all the zip files.
 
 I have included screen-shots of folder structure for your reference.
 
-pc folder structure        |  pse folder structure 
+pitch contour folder structure        |  pse folder structure 
 :-------------------------:|:-------------------------:
 ![](https://github.com/Aavu/Final-Project-MUSI_8903/blob/master/pc%20folder%20structure.png)  |  ![](https://github.com/Aavu/Final-Project-MUSI_8903/blob/master/pse%20folder%20structure.png)
 
