@@ -31,5 +31,7 @@ In such case, please install using ```conda install scikit-learn==0.20.1``` comm
 3) util_functions.py - contains helper functions
 
 
-Courtesy
+
+Courtesy,
+
 Sankalp Gulati, MTG, Compmusic
