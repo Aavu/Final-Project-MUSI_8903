@@ -11,9 +11,11 @@ The folder contains 3 zip files. Un-zip all the zip files.
 
 I have included screen-shots of folder structure for your reference.
 
-Use python version 3.6
+Use python version 3.6.
+
 Please install the dependencies from "requirements.txt". 
 Due to a bug with pycharm, it might sometimes fail to install scikit-learn if under conda environment.
+
 In such case, please install using ```conda install scikit-learn==0.20.1``` command.
 
 ### Phase Space Embedding
