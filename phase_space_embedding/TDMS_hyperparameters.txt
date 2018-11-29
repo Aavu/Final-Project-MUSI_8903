@@ -1,0 +1,3 @@
+Delay = 0.3
+Alpha = 0.6
+Sigma = 1.1
