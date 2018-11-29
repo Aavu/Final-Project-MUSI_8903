@@ -14,6 +14,7 @@ I have included screen-shots of folder structure for your reference.
 pc folder structure        |  pse folder structure 
 :-------------------------:|:-------------------------:
 ![](https://github.com/Aavu/Final-Project-MUSI_8903/blob/master/pc%20folder%20structure.png)  |  ![](https://github.com/Aavu/Final-Project-MUSI_8903/blob/master/pse%20folder%20structure.png)
+
 Use python version 3.6.
 
 Please install the dependencies from "requirements.txt". 
