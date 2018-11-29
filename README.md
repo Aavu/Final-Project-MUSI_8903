@@ -12,7 +12,7 @@ I have included screen-shots of folder structure for your reference.
 
 Use python version 3.6
 Please install the dependencies from "requirements.txt". Due to a bug with pycharm, it might sometimes fail to install scikit-learn if under conda environment.
-In such case, please install it via terminal using "conda install scikit-learn==0.20.1" command.
+In such case, please install it via terminal using ```conda install scikit-learn==0.20.1``` command.
 
 ### Phase Space Embedding
 1) createPhaseSpace.py - Creates the phase space data from the pitch contour features
