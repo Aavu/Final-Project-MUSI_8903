@@ -10,10 +10,10 @@ The folder contains 3 zip files. Un-zip all the zip files.
 2) Place "pc_dataset", "pc_dataset_train.npz" and "pc_dataset_validation.npz" inside "pitch_contour" folder.
 
 I have included screen-shots of folder structure for your reference.
-
-Solarized dark             |  Solarized Ocean
+Pitch Contour folder structure            |  Phase Space Embedding folder structure 
 :-------------------------:|:-------------------------:
 ![](https://github.com/Aavu/Final-Project-MUSI_8903/blob/master/pc%20folder%20structure.png)  |  ![](https://github.com/Aavu/Final-Project-MUSI_8903/blob/master/pse%20folder%20structure.png)
+
 Use python version 3.6.
 
 Please install the dependencies from "requirements.txt". 
